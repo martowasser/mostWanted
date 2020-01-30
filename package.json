@@ -1,0 +1,17 @@
+{
+  "name": "mostwanted",
+  "version": "1.0.0",
+  "description": "Most Wanted API demo",
+  "main": "./server/server.index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "Martin Wasserman",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
